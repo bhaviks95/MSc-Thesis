@@ -1,2 +1,2 @@
-# classifying_HNW_customers
-Code for MSc project on classifying betting customers.
+# MSc Thesis
+Code for MSc project on classifying betting customers as High Net Worth or not.
